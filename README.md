@@ -8,7 +8,7 @@ Author: [Swati Verma](https://github.com/Swati-Verma671)
 This challenge will need the player to know what web scraping is. The quotes in the provided website are all jumbled and will need to be arranged in order if you want to look for particular hints.
 
 ```
-Challenge description to go up on the website.
+https://swati-verma671.github.io/Motivational-Quotes/
 
 The website which motivates you through your tiresome and gruesome trial to find the flag. Your best bet is to look for and filter perseverance-quotes.
 Also, enclose the word you get in- wtfCTF{}
