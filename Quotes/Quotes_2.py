@@ -19,7 +19,7 @@ for table in tables:
     else:
         continue    
 
-filename='solutions(1).csv'
+filename='solutions_2.csv'
 with open(filename,'w',newline='') as f:
     w=csv.DictWriter(f,['S.No.','quote'])
     w.writeheader()
