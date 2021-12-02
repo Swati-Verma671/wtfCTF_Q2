@@ -1,5 +1,5 @@
-# wtfCTF_Q2
-#Too many Quotes
+
+# Too many Quotes
 
 Author: [Swati Verma](https://github.com/Swati-Verma671)
 
@@ -33,5 +33,6 @@ Third, as per given hint you will need to look for humility-related sayings. Loo
 The flag is:
 <br />
 
-\```
+```
 wtfCTF{ScrapPed}
+```
